@@ -1,7 +1,7 @@
 # 🌌Vrinee🖤
 
-**`AKA Brian Moura, brianzitos`**<br>
-**`Quantum physics enthusiast wannabe`**<br>
+**`AKA Brian Moura`**<br>
+**`Game dev wannabe`**<br>
 
 I'm just an average student from IFC (instituto federal catarinense) campus Camboriú, and I'm just learning things and my objective while coding is just to make things work🥶
 
